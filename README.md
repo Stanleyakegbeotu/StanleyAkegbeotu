@@ -33,5 +33,5 @@ My portfolio includes projects such as:
 - Professional website of anykind .  
 and various other prototypes that showcase my ability to integrate technical logic with creative execution.
 
-Let’s create something remarkable — from intelligent interfaces to AI-assisted apps and modern web ecosystems.
+Let’s create something remarkable  from intelligent interfaces to AI-assisted apps and modern web ecosystems.
 
