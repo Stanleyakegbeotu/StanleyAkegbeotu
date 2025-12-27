@@ -37,7 +37,7 @@ My portfolio includes projects such as:
 -  [My Portfolio](https://stanleyakegbeotu.github.io/new-potfoilo/)
 - An AI companion app  
 - An high quality potofolio website
-- A traditional desktop app for inventory managment (contracted)
+- A traditional desktop app for inventory managment (contracted)  https://stanleyakegbeotu.github.io/Silhouette-Project/
 - An Ecommerce sales page https://didaramart.github.io/solar1/
 - A personal finincial managment app (traditional desktop app with electron)
 - Professional website of anykind .  
