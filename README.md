@@ -38,7 +38,7 @@ My portfolio includes projects such as:
 - An AI companion app  
 - An high quality potofolio website
 - A traditional desktop app for inventory managment (contracted)
-- An Ecommerce sales page
+- An Ecommerce sales page https://didaramart.github.io/solar1/
 - A personal finincial managment app (traditional desktop app with electron)
 - Professional website of anykind .  
 and various other prototypes that showcase my ability to integrate technical logic with creative execution.
