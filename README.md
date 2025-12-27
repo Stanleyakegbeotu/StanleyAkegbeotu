@@ -21,10 +21,20 @@ I’m a creative problem-solver who enjoys blending AI, frontend technologies, a
 
 ---
 
+## 📫 Contact Me
+
+- 🌍 Portfolio: https://stanleyakegbeotu.github.io/new-potfoilo/
+- 💼 LinkedIn: https://linkedin.com/in/stanley-akegbeotu-795675384
+- 📧 Email: stanleyakegbeotu@gmail.com
+- 🐙 GitHub: https://github.com/StanleyAkegbeotu
+
+---
+
 ### 🚀 What I’m Building
 
 My portfolio includes projects such as:
-- A healthcare referral system  
+- A healthcare referral system
+-  [My Portfolio](https://stanleyakegbeotu.github.io/new-potfoilo/)
 - An AI companion app  
 - An high quality potofolio website
 - A traditional desktop app for inventory managment (contracted)
@@ -32,6 +42,22 @@ My portfolio includes projects such as:
 - A personal finincial managment app (traditional desktop app with electron)
 - Professional website of anykind .  
 and various other prototypes that showcase my ability to integrate technical logic with creative execution.
+
+----
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React, Next.js
+- Tailwind CSS
+- Git & Github
+- vs code
+- Electron
+- Canva
+- Node.js
+- Firebase
+- AI APIs (Gemini, OpenAI)
+- Figma
+
 
 Let’s create something remarkable  from intelligent interfaces to AI-assisted apps and modern web ecosystems.
 
