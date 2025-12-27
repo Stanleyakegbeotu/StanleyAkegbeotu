@@ -36,7 +36,7 @@ My portfolio includes projects such as:
 - A healthcare referral system
 -  [My Portfolio] https://stanleyakegbeotu.github.io/new-potfoilo/
 - An AI companion app  
-- An high quality potofolio website
+- An high quality potofolio website https://jennifer2541997.github.io/my-portfolio-/
 - A traditional desktop app for inventory managment (contracted)  https://stanleyakegbeotu.github.io/Silhouette-Project/
 - An Ecommerce sales page https://didaramart.github.io/solar1/
 - A personal finincial managment app (traditional desktop app with electron)
