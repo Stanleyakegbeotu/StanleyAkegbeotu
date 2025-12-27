@@ -34,13 +34,13 @@ I’m a creative problem-solver who enjoys blending AI, frontend technologies, a
 
 My portfolio includes projects such as:
 - A healthcare referral system
--  [My Portfolio](https://stanleyakegbeotu.github.io/new-potfoilo/)
+-  [My Portfolio] https://stanleyakegbeotu.github.io/new-potfoilo/
 - An AI companion app  
 - An high quality potofolio website
 - A traditional desktop app for inventory managment (contracted)  https://stanleyakegbeotu.github.io/Silhouette-Project/
 - An Ecommerce sales page https://didaramart.github.io/solar1/
 - A personal finincial managment app (traditional desktop app with electron)
-- Professional website of anykind .  
+- Professional website of anykind .  https://stanleyakegbeotu.github.io/doctors-website/
 and various other prototypes that showcase my ability to integrate technical logic with creative execution.
 
 ----
